@@ -18,6 +18,18 @@
      <ENTRY>Creates program with local classes</ENTRY>
      <LENGTH>34</LENGTH>
     </item>
+    <item>
+     <ID>S</ID>
+     <KEY>P_PREFIX</KEY>
+     <ENTRY>Replace with cl_ (optional)</ENTRY>
+     <LENGTH>35</LENGTH>
+    </item>
+    <item>
+     <ID>S</ID>
+     <KEY>P_TEMPL</KEY>
+     <ENTRY>The name of the template</ENTRY>
+     <LENGTH>32</LENGTH>
+    </item>
    </TPOOL>
   </asx:values>
  </asx:abap>
